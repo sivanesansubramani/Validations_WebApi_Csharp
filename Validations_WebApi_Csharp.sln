@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validations_WebApi_Csharp", "Validations_WebApi_Csharp.csproj", "{76D91E61-3C21-469A-BD92-FFDA00BACCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D91E61-3C21-469A-BD92-FFDA00BACCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D91E61-3C21-469A-BD92-FFDA00BACCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D91E61-3C21-469A-BD92-FFDA00BACCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D91E61-3C21-469A-BD92-FFDA00BACCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD80D24A-421F-4D88-A9F1-57461B272249}
+	EndGlobalSection
+EndGlobal
